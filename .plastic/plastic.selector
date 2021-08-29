@@ -1,0 +1,4 @@
+repository "Plastic-Test@wondong@cloud"
+  path "/"
+    br "/main"
+    co "/main"
